@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mahmoud Zaghloula</h1>
-<h3>Cyber Security Engineering <a href="https://10up.com/" target="blank">@10up</a></h3>
+<h3>Cyber Security Engineering</h3>
 
 - 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on 
