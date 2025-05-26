@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mahmoud Zaghloula</h1>
-<h3>Associate Director of Platform Engineering <a href="https://10up.com/" target="blank">@10up</a></h3>
+<h3>Cyber Security Engineering <a href="https://10up.com/" target="blank">@10up</a></h3>
 
 - 🔭 I’m currently working on 
 - 👯 I’m looking to collaborate on 
@@ -18,10 +18,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="[https://twitter.com/felipe_elia](https://x.com/MZaghloula1?t=_-w76LzB3u375i5ykmCNGw&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
-	<a href="www.linkedin.com/in/mahmoud-zaghloula-576b32246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
-	<a href="[https://fb.com/felipe.elia](https://www.facebook.com/share/18fKnV4zhC/?mibextid=qi2Omg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="[https://instagram.com/felipe.elia](https://www.instagram.com/__mahmoud_zaghloula_22?igsh=ZTQ4OHJncTg2Z2J3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+	<a href="https://x.com/MZaghloula1?t=_-w76LzB3u375i5ykmCNGw&s=09" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" />
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/mahmoud-zaghloula-576b32246" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" />
+</a>&nbsp;
+
+<a href="https://www.facebook.com/share/18fKnV4zhC/?mibextid=qi2Omg" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" />
+</a>&nbsp;
+
+<a href="https://www.instagram.com/__mahmoud_zaghloula_22?igsh=ZTQ4OHJncTg2Z2J3" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" />
+</a>&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
