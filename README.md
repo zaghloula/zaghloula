@@ -34,8 +34,5 @@
   <a href="https://www.facebook.com/share/18fKnV4zhC/?mibextid=qi2Omg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="20"/>
   </a>&nbsp;
-  <a href="https://www.instagram.com/__mahmoud_zaghloula_22?igsh=ZTQ4OHJncTg2Z2J3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="20"/>
-  </a>
 </p>
 
